@@ -1,0 +1,124 @@
+<html>
+
+<head>
+<title>Comida Tipica de Colombia!!</title>
+
+</head>
+
+<body bgcolor="white">
+
+<br>
+<center>
+<div id=cabecera">
+<div id ="logo">
+<a href= "https://www.colombiamagica.co/gastronomia/">
+<img src="logo.jpg" widht "270" height="200" bgcolor="yellow" style=float:right />
+</a>
+<br>
+
+<table border="0" font color="white"  bgcolor="yelow">
+<tr>
+<td><h2><a href= "https://www.youtube.com/watch?v=yokY9pAK9mk&t=2s"><p><i>COLOMBIA A LA MESA</i><p></a></h2></td>
+<td><h2><a href= "https://www.youtube.com/watch?v=ofrJDaFYwXY&t=47s"><p><i>HISTORIA DE LA COMIDA COLOMBIANA</i><p></a></h2></td>
+<td><h2><a href= "https://www.youtube.com/watch?v=uQur1mUbJUc"><p><i>POSTRES TRADICIONALES</i><p></a></h2></td>
+<td><h2><a href= "https://www.youtube.com/watch?v=PIAeESt8978&t=96s"><p><i>BEBIDAS TIPICAS</i><p></a></h2></td>
+</tr>
+</table>
+
+<br>
+</div>
+
+
+<br>
+<br>
+<center><marque><font face="raro, courier" size"4" color="black">
+<h1><i>BIENVENIDOS!! .... </h1></i>
+<br>
+<h1><i>¡AQUI ENCONTRARAS INFORMACION SOBRE LA COMIDA COLOMBIANA!!... </h1></i></b></font>
+</marquee></center>
+<br>
+<br>
+
+<center>
+<table>
+<tr>
+<td><q>A continuacion, dale click en cada imagen para conocer mas a fondo sobre cada plato tipico.</q></td>
+</tr>
+</table>
+</center>
+
+<br>
+<br>
+
+<table border="0">
+<tr>
+<td><a href="https://www.unacolombianaencalifornia.com/es/2012/01/arepas-rellenas/"><img src="arepas.jfif" width="150" height="150"></a></td>
+<td><a href="https://www.unacolombianaencalifornia.com/es/2015/11/arroz-con-pollo-colombiano/"><img src ="arroz.jfif " width="150" height="150"></a></td>
+<td><a href="https://www.centroandino.com.co/2020/08/03/la-historia-de-la-bandeja-paisa/"><img src ="bandeja.jfif " width="150" height="150"></a></td>
+<td><a href="https://www.mycolombianrecipes.com/es/empanadas-colombianas/"><img src ="empanada.jfif " width="150" height="150"></a></td>
+<td><a href=" https://www.mycolombianrecipes.com/es/lechona-tolimense/ "><img src ="lechona.jfif " width="150" height="150"></a></td>
+<td><a href=" https://www.colombia.com/gastronomia/noticias/tipos-de-pescados-que-comen-los-colombianos-243255 "><img src ="mojarra.jfif " width="150" height="150"></a></td>
+<td><a href=" https://www.mycolombianrecipes.com/es/pandebonos-colombianos/ "><img src ="panbono.jfif " width="150" height="150"></a></td>
+<td><a href="https://www.colombia.com/gastronomia/recetas-colombianas/patacones-especiales-r587 "><img src ="patacon.jfif" width="150" height="150"></a></td>
+</tr>
+
+
+<tr>
+<td><a href="http://www.eltoquecolombiano.com/2017/12/chorizos-caseros.html"><img src ="chorizo.jfif" width="150" height="150"></a></td>
+<td><a href="https://antojandoando.com/recetas/salsas-dips/hogao/"><img src ="ahogao.jfif" width="150" height="150"></a></td>
+<td><a href="https://www.mycolombianrecipes.com/es/tajadas-de-platano-maduro/"><img src ="tajada.jfif" width="150" height="150"></a></td>
+<td><a href="https://recetasdecamarones.com/ceviche-colombiano/"><img src ="cebiche.jfif" width="150" height="150"></a></td>
+<td><a href="https://www.sweetysalado.com/2015/07/mazorcas-asadas.html"><img src ="mazorca.jfif" width="150" height="150"></a></td>
+<td><a href="https://www.lainformacion.com/mundo/colombia-te-invita-a-comer-hormigas-fritas_hvsvj1kgcil69khphtbng2/"><img src ="hormiga.jfif" width="150" height="150"></a></td>
+<td><a href="https://www.cuerpomente.com/guia-alimentos/aguacate"><img src ="aguacate.jfif" width="150" height="150"></a></td>
+<td><a href="https://www.mycolombianrecipes.com/es/changua/"><img src ="clado.jfif"width="150" height="150"></a></td>
+</tr>
+
+</table>
+
+<br>
+<center><marque><font face="alegrian" size"30" color="800000">
+<b>ALGUNA VEZ... TE HAS PREGUNTADO... ¿QUE TAL ES LA COMIDA COLOMBIANA?... ¿TE GUSTARIA PROBRARALA?....ATREVETE A PROBAR LAS DELICIAS DE PLATOS TIPICOS QUE HAY EN NUESTRO PAIS"
+***---AQUI ENCUENTRAS LA MEJOR COMIDA DEL MUNDO" </b></font>
+</marquee></center>
+</br>
+<br>
+<h3 align="justify"> Quien vive o visita a Colombia, no solo disfruta de la variedad de eventos culturales, deportivos y de los innumerables sitios y destinos turísticos con los que cuenta este hermoso país, 
+si no, que puede disfrutar de los más variados y deliciosos platos típicos de la gastronomía de nuestro país.
+La gastronomía y comida colombiana se puede definir como una combinación o fusión de otras culturas como la española y la africana principalmente,
+complementada con los platos típicos mas representativos de cada región que le imponen un toque mágico de sabor y sazón inigualables.
+</br>
+<br>
+Platos típicos colombianos como la bandeja paisa, el sancocho, el mote de queso costeño, 
+la arepa, el mute santandereano, ajiaco santafereño, carne a la llanera o mamona, tamales,
+la lechona tolimense entre muchos otros manjares gastronómicos de Colombia que deleitarán tu paladar.</h3>
+
+<img src="comida.gif" widht "270" height="200"  style=float:right />
+<br>
+</br>
+
+</hr>
+
+<br>
+<center><marque><font face="raro, courier" size"1" color="red">
+<h1><background="93B874"><i>COLOMBIA SE CARACTERIZA POR SER UN PAIS ENRIQUECIDO CON SUS PLATOS TIPICOS </h1></i>
+</marquee></center>
+</br>
+
+<table align= "left"  Down Arrows="10550">
+<tr>
+<td><h2> De su interes: </h2></td>
+</tr>
+</table>
+
+<br>
+<table border="0" font face="raro, courier" align= left cellspacing="8" cellpadding= "8" bgcolor="white" >
+<tr>
+<td><h4><a href="https://www.facebook.com/anyiUrru/" <p>pagina de facebook<p></a></h4></td>
+<td><h4><a href="https:/wa.me/3004290913/"<p>whatsApp<p></a></h4></td>
+<td><h4><a href="https://mail.google.com/mail/?view=cm&fs=1&to=anyiurrutiaholguin@gmail.com"><p>Correo Gmail<p></a></h4></td>
+</tr>
+<br>
+</table>
+<body/>
+</html>
